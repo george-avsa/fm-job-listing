@@ -1,6 +1,7 @@
 {
   "name": "dashboard-app",
   "homepage": "https://george-avsa.github.io/",
+  "home": "https://george-avsa.github.io/",
   "version": "0.1.0",
   "author": "Goga Avsadzhanishvili",
   "private": true,
